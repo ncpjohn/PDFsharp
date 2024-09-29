@@ -26,7 +26,7 @@ Use `download-assets.ps1` in the `dev` folder to create `assets` folder required
 Execute 
 ```ps
 .\dev\download-assets.ps1
-```
+``` 
 
 ### Build the solution
 
